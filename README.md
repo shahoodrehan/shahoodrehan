@@ -1,3 +1,5 @@
+# <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahoodrehan&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
 # Hi there, I'm Muhammad Shahood Rehan 👋
 
 Welcome to my GitHub profile! I'm a passionate and dedicated Undergraduate Software Engineer with expertise in various cutting-edge technologies.
